@@ -1,2 +1,2 @@
-# A Simple-Chat room build using Firebase and React.
+# A ~~Super~~ Simple-Chat room build using Firebase and React.
 
