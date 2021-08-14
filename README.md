@@ -1,1 +1,2 @@
-Private repo of 'Super-Chat' files
+# A Simple-Chat room build using Firebase and React.
+
