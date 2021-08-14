@@ -50,6 +50,7 @@ function ChatRoom() {
       const { uid, photoURL, displayName, email } = auth.currentUser;
 
       await messagesRef.add({
+        name: displayName,
         text: formValue,
         createdAt: firebase.firestore.FieldValue.serverTimestamp(),
         uid,
